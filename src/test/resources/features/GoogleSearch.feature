@@ -4,3 +4,4 @@ Feature: Google Search
     When  user enter apple watch
     Then  user hit search button
     And   user should be verify
+    Then  user should be ok
